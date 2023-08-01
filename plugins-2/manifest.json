@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "进制转换插件",
+    "version": "1.0",
+    "description": "一个用于进行进制转换的谷歌插件",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+  }
+  

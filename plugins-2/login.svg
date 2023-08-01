@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Circle -->
+  <circle cx="100" cy="100" r="90" fill="#FF5733" />
+  
+  <!-- Triangle -->
+  <polygon points="100,10 40,190 160,190" fill="#33FF57" />
+  
+  <!-- Text -->
+  <text x="50" y="120" font-family="Arial" font-size="32" fill="#FFFFFF">Logo</text>
+</svg>

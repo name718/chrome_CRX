@@ -1,0 +1,19 @@
+{
+    "manifest_version":2,
+    "name":"helloWorld",
+    "version":"1.0",
+    "description":"hello word 插件",
+    "icons":{
+        "128":"img/login.svg",
+        "48":"img/login.svg",
+        "16":"img/login.svg"
+    },
+    "browser_action": {
+        "default_icon":"img/login.svg",
+        "default_popup":"popup.html"
+    },
+    "permissions":[
+        "storage"
+    ],
+    "options_page":"options.html"
+}
