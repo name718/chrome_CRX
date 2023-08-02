@@ -1,28 +1,31 @@
 /* styles.css */
 body {
-    width: 250px;
     min-height: 150px;
-    padding: 10px;
+    min-width: 300px;
     font-family: Arial, sans-serif;
-  }
-  
-  .tab-item {
+}
+
+#tabList {
+    position: relative;
+    top: 50px;
+}
+
+.tab-item {
     display: flex;
     align-items: center;
     padding: 5px;
     cursor: pointer;
-  }
-  
-  .tab-title {
+}
+
+.tab-title {
     margin-left: 5px;
-  }
-  
-  .tab-icon {
+}
+
+.tab-icon {
     width: 16px;
     height: 16px;
-  }
-  
-  .selected {
+}
+
+.selected {
     background-color: #f0f0f0;
-  }
-  
+}
