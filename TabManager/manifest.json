@@ -1,0 +1,12 @@
+// manifest.json
+{
+    "manifest_version": 3,
+    "name": "Tab Manager",
+    "version": "1.0",
+    "description": "A tab manager extension",
+    "permissions": ["tabs"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
